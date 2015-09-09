@@ -4,5 +4,8 @@
 .project
 .settings/
 
+*build/
+*.gradle/
+
 .idea/
 *.iml
